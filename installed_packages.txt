@@ -1,0 +1,11 @@
+# pkg_info -mz >/etc/installed_packages.txt
+
+aide--
+git--
+links--
+mtr--
+nginx--
+puppet--%4
+quirks--
+smokeping--
+wget--
