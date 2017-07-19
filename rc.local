@@ -1,0 +1,2 @@
+ifconfig re0 inet6 fe80::2e0:c5ff:fe46:f23a delete
+
