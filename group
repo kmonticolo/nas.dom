@@ -82,7 +82,6 @@ dialer:*:117:
 nogroup:*:32766:
 nobody:*:32767:
 kmonti:*:1000:
-_puppet:*:580:
 _rrdcached:*:726:
 _smokeping:*:562:
 _rsync:*:669:
