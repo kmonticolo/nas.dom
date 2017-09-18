@@ -1,1 +1,2 @@
 pkg_scripts=nginx smokeping smokeping_fcgi gitdaemon
+sndiod_flags=NO
