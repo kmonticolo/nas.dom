@@ -3,7 +3,8 @@
 # $OpenBSD: smokeping.rc,v 1.5 2015/07/15 23:17:11 sthen Exp $
 
 daemon="/usr/local/bin/smokeping"
-daemon_user="_smokeping"
+#daemon_user="_smokeping"
+daemon_user="root"
 
 . /etc/rc.d/rc.subr
 
