@@ -125,7 +125,6 @@ menu = Top
 title = Network Latency Grapher
 remark = Welcome to the SmokePing website of xxx Company. \
          Here you will learn all about the latency of our network.
-
 + Test
 menu= Targets
 #parents = owner:/Test/James location:/
@@ -148,15 +147,69 @@ menu = 172.17.28.238
 title = 172.17.28.238
 host = 172.17.28.238
 
+++ netia2
+
+menu = netia2.plix.pl
+title = netia2.plix.pl
+host = netia2.plix.pl
+
+++ googlepl
+
+menu = google.pl
+title = google.pl   
+host = google.pl
+
+++ facebook
+
+menu = facebook.com 
+title = facebook.com 
+host = facebook.com
+
+++ youtube
+
+menu = youtube.com
+title = youtube.com
+host = youtube.com
+
+++ wikipedia
+
+menu = wikipedia.org
+title = wikipedia.org
+host = wikipedia.org
+
+++ reddit
+
+menu = reddit.com
+title = reddit.com
+host = reddit.com
+
+++ twitter
+
+menu = twitter.com
+title = twitter.com
+host = twitter.com
+
+++ instagram
+
+menu = instagram.com
+title = instagram.com
+host = instagram.com
+
+++ linkedin
+
+menu = linkedin.com
+title = linkedin.com
+host = linkedin.com
+
 ++ wp
 
-menu = wp
+menu = wp.pl
 title =wp.pl
 host = wp.pl
 
 ++ onet
 
-menu = onet
+menu = onet.pl
 title = onet.pl
 host = onet.pl
 
