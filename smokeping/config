@@ -207,3 +207,956 @@ menu = onet.pl
 title = onet.pl
 host = onet.pl
 
+++ EU
+
+# howto: https://github.com/kmonticolo/nas.dom/blob/master/smokeping/README.md
++++ EU_AS12322
+menu = FR Free AS12322
+title = FR Free (AS12322 212.27.60.19)
+host = 212.27.60.19
+
++++ EU_AS12334
+menu = ES Mundo R cable AS12334
+title = ES Mundo R cable (AS12334 212.51.33.29)
+host = 212.51.33.29
+
++++ EU_AS12338
+menu = ES Euskaltel AS12338
+title = ES Euskaltel (AS12338 212.55.8.132)
+host = 212.55.8.132
+
++++ EU_AS12353
+menu = PT Vodafone AS12353
+title = PT Vodafone (AS12353 213.30.25.225)
+host = 213.30.25.225
+
++++ EU_AS12357
+menu = ES Comunitel AS12357
+title = ES Comunitel (AS12357 212.145.159.141)
+host = 212.145.159.141
+
++++ EU_AS12389
+menu = RU Rostelecom AS12389
+title = RU Rostelecom networks (AS12389 87.226.159.14)
+host = 87.226.159.14
+
++++ EU_AS12392
+menu = BE Brutele AS12392
+title = BE Brutele (185.3.160.71)
+host = (185.3.160.71
+
++++ EU_AS12414
+menu = NL Solcon AS12414
+title = NL Solcon (AS12414 212.45.32.175)
+host = 212.45.32.175
+
++++ EU_AS12430
+menu = ES Vodafone AS12430
+title = ES Vodafone (AS12430 212.73.32.3)
+host = 212.73.32.3
+
++++ EU_AS12479
+menu = ES Orange AS12479
+title = ES Orange (AS12479 85.62.229.137)
+host = 85.62.229.137
+
++++ EU_AS12542
+menu = PT TVCABO AS12542
+title = PT TVCABO (AS12542 195.8.0.1)
+host = 195.8.0.1
+
++++ EU_AS12634
+menu = NL Scarlet AS12634
+title = NL Scarlet (AS12634 213.204.195.152)
+host = 213.204.195.152
+
++++ EU_AS1267
+menu = IT INFOSTRADA AS1267
+title = IT INFOSTRADA (AS1267 151.6.1.81)
+host = 151.6.1.81
+
++++ EU_AS12714
+menu = RU Net By Net Holding LLC AS12714
+title = RU Net By Net Holding LLC (AS12714 212.1.224.2)
+host = 212.1.224.2
+
++++ EU_AS12715
+menu = ES Jazztel AS12715
+title = ES Jazztel (AS12715 212.106.192.250)
+host = 212.106.192.250
+
++++ EU_AS12741
+menu = PL Netia AS12741
+title = PL Netia S.A. (AS12741 195.114.160.200)
+host = 195.114.160.200
+
++++ EU_AS12874
+menu = IT FASTWEB AS12874
+title = IT FASTWEB (AS12874 217.29.66.46)
+host = 217.29.66.46
+
++++ EU_AS12874-1
+menu = IT FASTWEB AS12874-1
+title = IT FASTWEB (AS12874 213.140.2.12)
+host = 213.140.2.12
+
++++ EU_AS12876
+menu = FR Online AS12876
+title = FR Online SAS (AS12876 51.15.0.1)
+host = 51.15.0.1
+
++++ EU_AS12926
+menu = PT AR TELECOM AS12926
+title = PT AR TELECOM (AS12926 213.141.25.45)
+host = 213.141.25.45
+
++++ EU_AS13127
+menu = NL Tele2 AS13127
+title = NL Tele2 (AS13127 62.58.50.4)
+host = 62.58.50.4
+
++++ EU_AS13156
+menu = PT Cabovisao AS13156
+title = PT Cabovisao (AS13156 213.228.128.6)
+host = 213.228.128.6
+
++++ EU_AS13184
+menu = DE HANSENET AS13184
+title = DE HANSENET (AS13184 213.191.73.65)
+host = 213.191.73.65
+
++++ EU_AS13193
+menu = FR Nerim AS13193
+title = FR Nerim (AS13193 178.132.17.112)
+host = 178.132.17.112
+
++++ EU_AS13194
+menu = LT BITE AS13194
+title = LT BITE (AS13194 213.226.132.45)
+host = 213.226.132.45
+
++++ EU_AS13249
+menu = UA ITS-UA AS13249
+title = UA IT Systems LLC (AS13249 213.133.173.5)
+host = 213.133.173.5
+
++++ EU_AS13285
+menu = UK TalkTalk PLC AS13285
+title = UK TalkTalk PLC (AS13285 62.24.243.3)
+host = 62.24.243.3
+
++++ EU_AS14061-EU-AMS2-1
+menu = EU Digital Ocean AMS2-1 AS14061
+title = EU Digital Ocean Amsterdam 2 (AS14061 146.185.152.145)
+host = 146.185.152.145
+
++++ EU_AS14061-EU-AMS3-1
+menu = EU Digital Ocean AMS3-1 AS14061
+title = EU Digital Ocean Amsterdam 3 (AS14061 178.62.219.145)
+host = 178.62.219.145
+
++++ EU_AS14061-EU-FRA1-1
+menu = EU Digital Ocean FRA1-1 AS14061
+title = EU Digital Ocean Frankfurt 1 (AS14061 46.101.201.140)
+host = 46.101.201.140
+
++++ EU_AS14061-EU-LON1-1
+menu = EU Digital Ocean LON1-1 AS14061
+title = EU Digital Ocean London (AS14061 188.166.152.227)
+host = 188.166.152.227
+
++++ EU_AS15419
+menu = LT LRTC AS15419
+title = LT LRTC (AS15419 217.9.240.86)
+host = 217.9.240.86
+
++++ EU_AS15435
+menu = NL Caiway AS15435
+title = NL Caiway (AS15435 62.45.56.66)
+host = 62.45.56.66
+
++++ EU_AS15525
+menu = PT PT Prime AS15525
+title = PT Prime (AS15525 62.48.131.10)
+host = 62.48.131.10
+
++++ EU_AS15557
+menu = FR SFR AS15557
+title = FR SFR (AS15557 80.125.163.172)
+host = 80.125.163.172
+
++++ EU_AS15670
+menu = NL Alice AS15670
+title = NL Alice (AS15670 62.177.128.47)
+host = 62.177.128.47
+
++++ EU_AS15685
+menu = CZ CasablancaAS15685
+title = CZ Casablanca (AS15685 217.11.225.71)
+host = 217.11.225.71
+
++++ EU_AS15694
+menu = PL Atman AS15694
+title = PL Atman ATM S.A (AS15694 46.229.147.124)
+host = 46.229.147.124
+
++++ EU_AS15772
+menu = UA WNET AS15772
+title = UA WNET Ukraine LLC (AS15772 92.60.184.124)
+host = 92.60.184.124
+
++++ EU_AS15857
+menu = PL Dialog AS15857
+title = PL Telefonia Dialog sp.z.o.o. (AS15857 195.182.218.41)
+host = 195.182.218.41
+
++++ EU_AS15857-1
+menu = PL Dialog AS15857-1
+title = PL Telefonia Dialog sp.z.o.o. (AS15857 217.30.137.10)
+host = 217.30.137.10
+
++++ EU_AS15857-2
+menu = PL Dialog AS15857-2
+title = PL Telefonia Dialog sp.z.o.o. (AS15857 217.30.129.149)
+host = 217.30.129.149
+
++++ EU_AS15895
+menu = UA Kyivstar AS15895
+title = UA Kyivstar PJSC (AS15895 193.41.60.18)
+host = 193.41.60.18
+
++++ EU_AS16128
+menu = FR Agarik AS16128
+title = FR Agarik (AS16128 217.174.207.7)
+host = 217.174.207.7
+
++++ EU_AS16338
+menu = ES Auna AS16338
+title = ES Auna (AS16338 81.184.0.1)
+host = 81.184.0.1
+
++++ EU_AS16509
+menu = UK Amazon AS16509
+title = UK Amazon Ireland (AS16509 46.51.132.41)
+host = 46.51.132.41
+
++++ EU_AS16509-EU-Central-1
+menu = EU Amazon EU-Central-1 AS16509
+title = EU Amazon EU-Central-1 Frankfurt (AS16509 52.29.63.252)
+host = 52.29.63.252
+
++++ EU_AS16509-EU-West-1
+menu = EU Amazon EU-West-1 AS16509
+title = EU Amazon EU-West-1 Ireland (AS16509 52.215.255.254)
+host = 52.215.255.254
+
++++ EU_AS16509-EU-West-2
+menu = EU Amazon EU-West-2 AS16509
+title = EU Amazon EU-West-2 London (AS16509 35.178.0.253)
+host = 35.178.0.253
+
++++ EU_AS1897
+menu = PT KPNQwest AS1897
+title = PT KPNQwest (AS1897 193.126.4.60)
+host = 193.126.4.60
+
++++ EU_AS198591
+menu = PL CLUDO AS198591
+title = PL CLUDO Sp. z o.o (AS198591 138.68.109.171)
+host = 138.68.109.171
+
++++ EU_AS198611
+menu = PL M-Networks AS198611
+title = PL M-Networks Sp. z o.o (AS198611 91.237.68.2)
+host = 91.237.68.2
+
++++ EU_AS200000
+menu = UA Hosting Ukraine AS200000
+title = UA Hosting Ukraine (AS200000 91.222.136.248)
+host = 91.222.136.248
+
++++ EU_AS20485
+menu = RU Closed Joint Stock Company AS20485
+title = RU Closed Joint Stock Company (AS20485 217.150.34.129)
+host = 217.150.34.129
+
++++ EU_AS20632
+menu = RU PeterStar AS20632
+title = RU PeterStart Telecommunications (AS20632 217.195.65.25)
+host = 217.195.65.25
+
++++ EU_AS20746
+menu = IT TELECOM ITALIA AS20746
+title = IT TELECOM ITALIA (AS20746 156.54.82.1)
+host = 156.54.82.1
+
++++ EU_AS20804
+menu = PL Exatel AS20804
+title = PL Exatel S.A. (AS20804 213.172.186.5)
+host = 213.172.186.5
+
++++ EU_AS20853
+menu = PL eTOP AS20853
+title = PL eTOP Sp. z o.o. (AS20853 80.72.32.68)
+host = 80.72.32.68
+
++++ EU_AS20940-DE
+menu = DE Akamai AS20940
+title = DE Akamai (AS20940 23.14.90.1)
+host = 23.14.90.1
+
++++ EU_AS20960
+menu = PL TKTelecom AS20960
+title = PL TKTelecom (AS20960 213.199.225.14)
+host = 213.199.225.14
+
++++ EU_AS21011
+menu = UA TopNet AS21011
+title = UA TOP NET PJSC (AS21011 77.88.220.41)
+host = 77.88.220.41
+
++++ EU_AS21021
+menu = PL Multimedia Polska AS21021
+title = PL Multimedia Polska S.A. (AS30824 89.230.120.1)
+host = 89.230.120.1
+
++++ EU_AS21211
+menu = LT SKYNET AS21211
+title = LT SKYNET (AS21211 84.240.1.121)
+host = 84.240.1.121
+
++++ EU_AS21488
+menu = UA Emplot AS21488
+title = UA Emplot Ltd (AS21488 194.246.117.6)
+host = 194.246.117.6
+
++++ EU_AS21497
+menu = UA MTS AS21497
+title = UA PrJSC MTS Ukraine (AS21497 80.255.64.179)
+host = 80.255.64.179
+
++++ EU_AS21502
+menu = FR Numericable AS21502
+title = FR Numericable (AS21502 80.236.0.117)
+host = 80.236.0.117
+
++++ EU_AS24723
+menu = PL Atman AS24723
+title = PL Atman ATM S.A (AS24723 46.229.158.41)
+host = 46.229.158.41
+
++++ EU_AS24724
+menu = PL Atman AS24724
+title = PL Atman ATM S.A (AS24724 193.111.37.34)
+host = 193.111.37.34
+
++++ EU_AS24940
+menu = DE Hetzner AS24940
+title = DE Hetzner (AS24940 213.133.107.227)
+host = 213.133.107.227
+
++++ EU_AS24962
+menu = PL telesystems.ua AS24962
+title = PL telesystems.ua (AS24962 77.91.190.21)
+host = 77.91.190.21
+
++++ EU_AS25441
+menu = IE IBIS AS25441
+title = IE IBIS (AS25441 89.127.199.146)
+host = 89.127.199.146
+
++++ EU_AS25513
+menu = RU OJS Moscow city telephone AS25513
+title = RU OJS Moscow city telephone (AS25513 91.202.86.1)
+host = 91.202.86.1
+
++++ EU_AS2609-1
+menu = TN ATI AS2609-1
+title = TN ATI (AS2609 193.95.97.162)
+host = 193.95.97.162
+
++++ EU_AS2854
+menu = RU Ros Sprint - OBS AS2854
+title = RU Orange Business Services / Equant RU (AS2854 193.232.88.17)
+host = 193.232.88.17
+
++++ EU_AS2856
+menu = UK BT AS2856
+title = UK BT (AS2856 62.6.197.137)
+host = 62.6.197.137
+
++++ EU_AS286
+menu = NL KPN AS286
+title = NL KPN International (AS286 134.222.92.1)
+host = 134.222.92.1
+
++++ EU_AS2860
+menu = PT Clix AS2860
+title = PT Clix (AS2860 195.23.129.126)
+host = 195.23.129.126
+
++++ EU_AS28761
+menu = UA CrimeaCom AS28761
+title = UA CrimeaCom South LLC (AS28761 195.3.245.100)
+host = 195.3.245.100
+
++++ EU_AS28773
+menu = UA GTU AS28773
+title = UA Global Technology Ukraine Ltd. (AS28773 195.78.38.129)
+host = 195.78.38.129
+
++++ EU_AS28812
+menu = RU PJSC Bashinformsvyaz AS28812
+title = RU PJSC Bashinformsvyaz (AS28812 95.110.0.1)
+host = 95.110.0.1
+
++++ EU_AS28840
+menu = RU OJSC OAO TATTELECOM AS28840
+title = RU OJSC OAO TATTELECOM (AS28840 217.23.176.33)
+host = 217.23.176.33
+
++++ EU_AS29119
+menu = ES ServiHosting AS29119
+title = ES ServiHosting Networks S.L. (AS29119 84.232.5.180)
+host = 84.232.5.180
+
++++ EU_AS29222
+menu = CH Infomaniak
+title = CH Infomaniak Network (AS29222 84.16.66.66)
+host = 84.16.66.66
+
++++ EU_AS29314
+menu = PL VECTRA AS29314
+title = PL VECTRA S.A. (AS29314 193.200.227.20)
+host = 193.200.227.20
+
++++ EU_AS29562
+menu = DE Kabel BW AS29562
+title = DE Kabel BW (AS29562 78.42.43.58)
+host = 78.42.43.58
+
++++ EU_AS29596
+menu = PL Telekomunikacja Internetowa AS29596
+title = PL Telekomunikacja Internetowa Sp. z o.o. (AS29596 194.146.216.52)
+host = 194.146.216.52
+
++++ EU_AS29632
+menu = UA NetAssist AS29632
+title = UA NetAssist LLC (AS29632 62.205.132.6)
+host = 62.205.132.6
+
++++ EU_AS31042
+menu = RS Serbia BroadBand AS31042
+title = RS Serbia BroadBand - SBB (AS31042 213.143.65.11)
+host = 213.143.65.11
+
++++ EU_AS31148
+menu = UA Freenet AS31148
+title = UA Freenet Ltd (tm O3) (AS31148 94.76.107.15)
+host = 94.76.107.15
+
++++ EU_AS31200
+menu = RU Novotelecom Ltd AS31200
+title = RU Novotelecom Ltd (AS31200 178.49.132.74)
+host = 178.49.132.74
+
++++ EU_AS31241
+menu = BE ASP.be AS31241
+title = BE ASP.be (AS31241 80.65.129.70)
+host = 80.65.129.70
+
++++ EU_AS31334
+menu = DE Kabel Deutschland AS31334
+title = DE Kabel Deutschland (AS31334 83.169.129.29)
+host = 83.169.129.29
+
++++ EU_AS3209
+menu = DE Arcor AS3209
+title = DE Arcor (AS3209 145.253.2.19)
+host = 145.253.2.19
+
++++ EU_AS3215
+menu = FR Orange AS3215
+title = FR Orange (AS3215 194.51.3.65)
+host = 194.51.3.65
+
++++ EU_AS3216
+menu = RU PJSC Vimpelcom AS3216
+title = RU PJSC Vimpelcom (AS3216 194.67.2.108)
+host = 194.67.2.108
+
++++ EU_AS3243
+menu = PT Telepac AS3243
+title = PT Telepac (AS3243 213.13.146.140)
+host = 213.13.146.140
+
++++ EU_AS3255
+menu = UA UARnet AS3255
+title = UA Ukrainian Academic and Research Network (AS3255 194.44.214.9)
+host = 194.44.214.9
+
++++ EU_AS3257
+menu = DE GTT AS3257
+title = DE GTT (AS3257 213.200.89.94)
+host = 213.200.89.94
+
++++ EU_AS3261
+menu = UA FTICOM AS3261
+title = UA FTICOM LLC (AS3261 195.184.192.55)
+host = 195.184.192.55
+
++++ EU_AS3265
+menu = NL XS4ALL AS3265
+title = NL XS4ALL (AS3265 194.109.6.92)
+host = 194.109.6.92
+
++++ EU_AS3269
+menu = IT TELECOM ITALIA AS3269
+title = IT TELECOM ITALIA (AS3269 195.103.207.15)
+host = 195.103.207.15
+
++++ EU_AS3292
+menu = FI TDC AS3292
+title = FI TDC (AS3292 194.100.2.194)
+host = 194.100.2.194
+
++++ EU_AS3303
+menu = CH Swisscom AS3303
+title = CH Swisscom (AS3303 138.190.34.196)
+host = 138.190.34.196
+
++++ EU_AS3320
+menu = DE DTAG AS3320
+title = DE DTAG (AS3320 194.25.0.125)
+host = 194.25.0.125
+
++++ EU_AS3329
+menu = GR Hellas OnLine AS3329
+title = GR Hellas OnLine Electronic Communications S.A. (AS3329 62.38.2.73)
+host = 62.38.2.73
+
++++ EU_AS3336
+menu = FI Elisa AS3336
+title = FI Elisa (AS3336 193.229.0.118)
+host = 193.229.0.118
+
++++ EU_AS3352
+menu = ES Telefonica AS3352
+title = ES Telefonica (AS3352 194.224.6.194)
+host = 194.224.6.194
+
++++ EU_AS33891
+menu = DE Core Backbone AS33891
+title = DE Core Backbone GmBH (AS33891 92.43.105.130)
+host = 92.43.105.130
+
++++ EU_AS33922
+menu = LT NTT AS33922
+title = LT NTT (AS33922 84.32.3.34)
+host = 84.32.3.34
+
++++ EU_AS34056
+menu = UA Kyiv Optic Net AS34056
+title = UA NetAssist LLC (AS34056 92.244.96.13)
+host = 92.244.96.13
+
++++ EU_AS34245
+menu = IE Magnet AS34245
+title = IE Magnet (AS34245 85.91.6.60)
+host = 85.91.6.60
+
++++ EU_AS34758
+menu = IT INTERPLANET-IT AS34758
+title = IT InterPlanet (AS34758 193.238.136.170)
+host = 193.238.136.170
+
++++ EU_AS34867
+menu = UA Cosmonova AS34867
+title = UA Cosmonova LLC (AS34867 95.67.8.80)
+host = 95.67.8.80
+
++++ EU_AS35000
+menu = RU Prometey AS35000
+title = RU Prometey Ltd (AS35000 85.235.192.2)
+host = 85.235.192.2
+
++++ EU_AS35297
+menu = UA DataLine AS35297
+title = UA DataLine (AS35297 193.239.72.100)
+host = 193.239.72.100
+
++++ EU_AS35320
+menu = UA EuroTransTelecom AS35320
+title = UA Eurotranstelecom LTD (AS35320 80.93.112.68)
+host = 80.93.112.68
+
++++ EU_AS36947
+menu = DZ Algerie Telecom AS36947
+title = DZ Algerie Telecom (AS36947 193.251.169.113)
+host = 193.251.169.113
+
++++ EU_AS39440
+menu = CH NetPlus AS39440
+title = CH NetPlus (AS39440 85.90.7.10)
+host = 85.90.7.10
+
++++ EU_AS39603
+menu = PL P4 Play AS39603
+title = PL P4 Sp. z o.o (AS39603 89.108.202.68)
+host = 89.108.202.68
+
++++ EU_AS39706
+menu = DE O2 AS39706
+title = DE O2 (AS39706 82.113.113.132)
+host = 82.113.113.132
+
++++ EU_AS39927
+menu = RU E-Light-Telecom AS39927
+title = RU E-Light-Telecom (AS39927 158.46.224.1)
+host = 158.46.224.1
+
++++ EU_AS41421
+menu = PL StarNet AS41421
+title = PL Starnet Telecom Sp. z o.o (AS41421 188.65.40.69)
+host = 188.65.40.69
+
++++ EU_AS42675
+menu = LT KAVA AS42675
+title = LT KAVA (AS42675 77.221.80.254)
+host = 77.221.80.254
+
++++ EU_AS42908
+menu = CZ MOBILKOM AS42908
+title = CZ MOBILKOM (AS42908 78.136.130.151)
+host = 78.136.130.151
+
++++ EU_AS43554
+menu = UA Trinity AS43554
+title = UA Trinity (AS43554 193.46.210.4)
+host = 193.46.210.4
+
++++ EU_AS44038
+menu = CH Bluewin AS44038
+title = CH Bluewin (AS44038 195.186.196.180)
+host = 195.186.196.180
+
++++ EU_AS44050
+menu = RU PIN AS44050
+title = RU Petersburg Internet Network ltd (AS44050 195.2.240.4)
+host = 195.2.240.4
+
++++ EU_AS4589
+menu = UK Easynet AS4589
+title = UK Easynet (AS4589 195.40.1.250)
+host = 195.40.1.250
+
++++ EU_AS47544
+menu = PL IQ.PL AS47544
+title = PL IQ PL Sp. z o.o. (AS47544 86.111.242.10)
+host = 86.111.242.10
+
++++ EU_AS47764
+menu = RU Mail.Ru AS47764
+title = RU Mail.Ru (AS47764 217.69.139.112)
+host = 217.69.139.112
+
++++ EU_AS484964
+menu = UA Enterra AS48964
+title = UA Enterra / Datasfera (AS48964 193.19.242.21)
+host = 193.19.242.21
+
++++ EU_AS49242
+menu = PL Internet Union AS49242
+title = PL Internet Union S.A. (AS49242 188.121.1.203)
+host = 188.121.1.203
+
++++ EU_AS49453
+menu = NL Global Layer AS49453
+title = NL Global Layer (AS49453 109.202.107.15)
+host = 109.202.107.15
+
++++ EU_AS50581
+menu = UA Ukrainian Telecom AS50581
+title = UA Ukrainian Telecommunication Group Ltd. (AS50581 195.211.60.37)
+host = 195.211.60.37
+
++++ EU_AS50599
+menu = PL DataSpace AS50599
+title = PL Data Invest Sp. z o.o (AS50599 193.105.125.51)
+host = 193.105.125.51
+
++++ EU_AS50673
+menu = NL Serverius AS50673
+title = NL Serverius (AS50673 5.255.66.253)
+host = 5.255.66.253
+
++++ EU_AS50746
+menu = UK BTL AS50746
+title = UK Britannic Technologies Ltd (AS50746 89.150.27.73)
+host = 89.150.27.73
+
++++ EU_AS5089
+menu = UK Virgin AS5089
+title = UK Virgin (AS5089 212.250.162.4)
+host = 212.250.162.4
+
++++ EU_AS513
+menu = CH CERN AS513
+title = CH CERN (AS3303 192.65.187.5)
+host = 192.65.187.5
+
++++ EU_AS51426
+menu = PL Teleport AS51426
+title = PL Teleport KRTNET (AS51426 91.217.19.241)
+host = 91.217.19.241
+
++++ EU_AS51852
+menu = CH PrivateLayer AS51852
+title = CH PrivateLayer Inc. (AS51852 179.43.163.51)
+host = 179.43.163.51
+
++++ EU_AS5407
+menu = CZ SKYNET AS5407
+title = CZ SKYNET (AS5407 193.165.254.33)
+host = 193.165.254.33
+
++++ EU_AS5410
+menu = FR Bouygues AS5410
+title = FR Bouygues (AS5410 62.201.159.99)
+host = 62.201.159.99
+
++++ EU_AS5432
+menu = BE Belgacom Skynet AS5432
+title = BE Belgacom Skynet (AS5432 91.183.241.40)
+host = 91.183.241.40
+
++++ EU_AS5466
+menu = IE Eircom AS5466
+title = IE Eircom (AS54665159.134.198.135)
+host = (AS54665159.134.198.135
+
++++ EU_AS5515
+menu = FI Sonera AS5515
+title = FI Sonera (AS5515 192.89.123.25)
+host = 192.89.123.25
+
++++ EU_AS5522
+menu = LT OMNITEL AS5522
+title = LT OMNITEL (AS5522 194.176.32.3)
+host = 194.176.32.3
+
++++ EU_AS5607
+menu = UK Sky Broadband AS5607
+title = UK Sky Broadband (AS5607 90.207.238.102)
+host = 90.207.238.102
+
++++ EU_AS5617
+menu = PL Orange Polska AS5617
+title = PL Orange Polska (AS5617 80.50.248.79)
+host = 80.50.248.79
+
++++ EU_AS5617-2
+menu = PL Orange Polska AS5617
+title = PL Orange Polska (AS5617 79.189.120.178)
+host = 79.189.120.178
+
++++ EU_AS57367
+menu = PL Atman AS57367
+title = PL Atman ATM S.A (AS57367 185.36.168.16)
+host = 185.36.168.16
+
++++ EU_AS57811
+menu = PL Atende Software AS57811
+title = PL Atende Software Sp. z o.o (AS57811 188.64.80.41)
+host = 188.64.80.41
+
++++ EU_AS6706
+menu = CZ Volny AS6706
+title = CZ Volny (AS6706 195.250.155.30)
+host = 195.250.155.30
+
++++ EU_AS6713-2
+menu = MA Marocco AS6713-2
+title = MA Marocco (AS6713 196.217.246.50) via Tiscali/Marseille
+host = Tiscali/Marseill
+
++++ EU_AS6713-3
+menu = MA Marocco AS6713-3
+title = MA Marocco (AS6713 41.249.32.1) via Seabone/Marseille
+host = Seabone/Marseill
+
++++ EU_AS6730
+menu = CH Sunrise Com. AS6730
+title = CH Sunrise Communications (AS6730 212.98.37.132)
+host = 212.98.37.132
+
++++ EU_AS6739
+menu = ES Ono AS6739
+title = ES Ono (AS6739 62.42.230.18)
+host = 62.42.230.18
+
++++ EU_AS6768
+menu = UA Eurotel AS6768
+title = UA Eurotel LLC (AS6768 194.146.188.38)
+host = 194.146.188.38
+
++++ EU_AS6774
+menu = BE Belgacom AS6774
+title = BE Belgacom (AS6774 80.84.18.215)
+host = 80.84.18.215
+
++++ EU_AS6830
+menu = NL UPC AS6830
+title = NL UPC (AS6830 80.69.100.12)
+host = 80.69.100.12
+
++++ EU_AS6830-10
+menu = AT UPC AS6830
+title = AT UPC (AS6830 195.34.128.1)
+host = 195.34.128.1
+
++++ EU_AS6830-11
+menu = PL Liberty Global AS6830
+title = PL Liberty Global Operations B.V. / UPC (AS6830 81.18.192.8)
+host = 81.18.192.8
+
++++ EU_AS6830-12
+menu = RO UPC international AS6830
+title = RO UPC international (AS6830 193.230.240.21)
+host = 193.230.240.21
+
++++ EU_AS6830-4
+menu = DE UPC AS6830
+title = DE UPC (AS6830 80.69.100.12)
+host = 80.69.100.12
+
++++ EU_AS6849
+menu = UA UkrTelecom AS6849
+title = UA PJSC Ukrtelecom (AS6849 82.207.67.6)
+host = 82.207.67.6
+
++++ EU_AS6871
+menu = UK PlusNet AS6871
+title = UK PlusNet (AS6871 195.166.128.65)
+host = 195.166.128.65
+
++++ EU_AS8308
+menu = PL NASK AS8308
+title = PL NASK (AS8308 195.187.255.191)
+host = 195.187.255.191
+
++++ EU_AS8342
+menu = RU JSC RTComm.RU AS8342
+title = RU JSC RTComm.RU (AS8342 213.59.0.3)
+host = 213.59.0.3
+
++++ EU_AS8346
+menu = SN Sonatel AS8346
+title = SN Sonatel (AS8346 213.154.64.12)
+host = 213.154.64.12
+
++++ EU_AS8359
+menu = RU MTS PJSC AS8359
+title = RU MTS PJSC (AS8359 212.30.141.145)
+host = 212.30.141.145
+
++++ EU_AS8369
+menu = RU Intersvyaz-2 JSC AS8369
+title = RU Intersvyaz-2 JSC (AS8369 78.29.0.254)
+host = 78.29.0.254
+
++++ EU_AS8374
+menu = PL Polkomtel AS8374
+title = PL Polkomtel Sp. z o.o (AS8374 212.2.120.240)
+host = 212.2.120.240
+
++++ EU_AS8402
+menu = RU OJSC Vimpelcom AS8402
+title = RU OJSC Vimpelcom (AS8402 128.69.248.1)
+host = 128.69.248.1
+
++++ EU_AS8422
+menu = DE NETCOLOGNE AS8422
+title = DE NETCOLOGNE (AS8422 134.95.129.23)
+host = 134.95.129.23
+
++++ EU_AS8426
+menu = UK Clara AS8426
+title = UK Clara (AS8426 217.158.169.7)
+host = 217.158.169.7
+
++++ EU_AS8529
+menu = OM Omantel AS8529
+title = OM Omantel General Telecom (AS8529 184.87.208.55)
+host = 184.87.208.55
+
++++ EU_AS8560
+menu = DE 1and1 AS8560
+title = DE 1and1 (AS8560 217.160.80.1)
+host = 217.160.80.1
+
++++ EU_AS8586
+menu = UK OPAL AS8586
+title = UK OPAL (AS8586 195.74.130.2)
+host = 195.74.130.2
+
++++ EU_AS8612
+menu = IT Tiscali AS8612
+title = IT Tiscali (AS8612 213.205.6.2)
+host = 213.205.6.2
+
++++ EU_AS8657
+menu = PT CPRMNET AS8657
+title = PT CPRMNET (AS8657 195.8.0.126)
+host = 195.8.0.126
+
++++ EU_AS8764
+menu = LT TEO AS8764
+title = LT TEO (AS8764 212.59.0.11)
+host = 212.59.0.11
+
++++ EU_AS8881
+menu = DE Versatel AS8881
+title = DE Versatel (AS8881 82.140.32.137)
+host = 82.140.32.137
+
++++ EU_AS8970
+menu = PL WASK AS8970
+title = Networking and Supercomputing (AS8970 156.17.254.3)
+host = 156.17.254.3
+
++++ EU_AS8997
+menu = RU Rostelecom NW AS8997
+title = RU RosTelecom OJSC North-West Telecom (AS8997 78.36.60.242)
+host = 78.36.60.242
+
++++ EU_AS9002
+menu = UA RETN AS9002
+title = UA RETN Limited (AS3329 87.245.225.0)
+host = 87.245.225.0
+
++++ EU_AS9105
+menu = UK Tiscali AS9105
+title = UK Tiscali (AS9105 212.139.132.228)
+host = 212.139.132.228
+
++++ EU_AS9121
+menu = TR Turk Telekom AS9121
+title = TR Turk Telekomunikasyon Anonim Sirketi (AS9121 85.106.14.1)
+host = 85.106.14.1
+
++++ EU_AS9143
+menu = NL Zigoo AS9143
+title = NL Zigoo (AS9143 212.54.32.19)
+host = 212.54.32.19
+
++++ EU_AS9186
+menu = PT Edinet AS9186
+title = PT Edinet (AS9186 195.245.178.1)
+host = 195.245.178.1
+
++++ EU_AS9198
+menu = KZ Kazakhtelecom AS49198
+title = KZ Kazakhtelecom (AS49198 92.46.42.148)
+host = 92.46.42.148
+
