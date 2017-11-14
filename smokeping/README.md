@@ -38,6 +38,6 @@ echo
 
  
  
-  for i in EU*;do ./x.sh $i;done >config
+  for i in `cat asy`;do ./x.sh $i;done >config
 
   
