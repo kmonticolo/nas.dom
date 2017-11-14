@@ -45,6 +45,6 @@ echo
 
  
  
- ` for i in `cat asy`;do ./x.sh $i;done >config`
+ ``` for i in `cat asy`;do ./x.sh $i;done >config```
 
   
