@@ -206,7 +206,74 @@ menu = onet.pl
 title = onet.pl
 host = onet.pl
 
-++ tescik
+++ VectraPEERING
+menu = VectraPEERING
+title = VectraPEERING
+
++++ AMS-IX
+menu = AMS-IX
+title = AMS-IX 80.249.213.90
+host = 80.249.213.90
+
++++ DCIX
+menu = DE-CIX Frankfurt
+title = DE-CIX Frankfurt 80.81.193.236
+host = 80.81.193.236
+
++++ EPIX
+menu = EPIX
+title = EPIX.Katowice 195.191.170.120
+host = 195.191.170.120
+
++++ LINX
+menu = LINX LON1
+title = LINX LON1 195.66.225.167
+host = 195.66.225.167
+
++++ PLIX
+menu = PLIX
+title = PLIX 195.182.219.10
+host = 195.182.219.10
+
++++ POZIX
+menu = POZIX
+title = POZIX 185.1.4.104
+host = 185.1.4.104
+
++++ EPIXWAR
+menu = EPIXWAR
+title = EPIX.Warszawa-KIX 89.46.144.212
+host = 89.46.144.212
+
++++ Thinx
+menu = Thinx
+title = Thinx 212.91.0.211
+host = 212.91.0.211
+
++++ Thinx2
+menu = Thinx2
+title = Thinx 212.91.0.204
+host = 212.91.0.204
+
+++ otherPEERING
+menu = otherPeering
+title = otherPeering
+
++++ NLIX
+menu = NL-ix
+title = NL-ix 193.239.117.222
+host = 193.239.117.222
+
+
++++ TPIX
+menu = TPIX
+title = TPIX 195.149.232.59
+host = 195.149.232.59
+
++++ Thinx
+menu = Thinx
+title = Thinx 212.91.0.252
+host = 212.91.0.252
 
 ++ EU
 menu = EU
