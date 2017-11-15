@@ -741,3 +741,302 @@ menu = UK Virgin AS5089
 title = UK Virgin (AS5089 212.250.162.4)
 host = 212.250.162.4
 
+++ USA
+menu = USA
+title = USA
+
++++ USA_AS16509-Canada
+menu = CA Amazon Central AS16509
+title = CA Amazon AWS Central (AS16509 35.182.0.251)
+host = 35.182.0.251
+
++++ USA_AS577
+menu = CA BELL AS577
+title = CA BELL (AS577 207.164.234.36)
+host = 207.164.234.36
+
++++ USA_AS855
+menu = CA Bell Aliant AS855
+title = CA Bell Aliant (AS855 142.166.181.134)
+host = 142.166.181.134
+
++++ USA_AS19234
+menu = CA Canada Web Hosting AS19234
+title = CA Canada Web Hosting (AS19234 76.74.226.57)
+host = 76.74.226.57
+
++++ USA_AS7992
+menu = CA Cogeco Wave AS7992
+title = CA - Cogeco Cable (AS7992 204.187.235.1)
+host = 204.187.235.1
+
++++ USA_AS13826
+menu = CA Data Centers Canada AS13826
+title = CA Data Centers Canada (AS13826 208.93.235.42)
+host = 208.93.235.42
+
++++ USA_AS11814
+menu = CA Distributel AS11814
+title = CA - DISTRIBUTEL COMMUNICATIONS LTD. (AS11814 209.197.128.10)
+host = 209.197.128.10
+
++++ USA_AS22652
+menu = CA Fibrenoire AS22652
+title = CA Fibrenoire (AS22652 68.67.42.82)
+host = 68.67.42.82
+
++++ USA_AS19752
+menu = CA Hydro One AS19752
+title = CA - Hydro One Telecom Inc. (AS19752 142.46.1.130)
+host = 142.46.1.130
+
++++ USA_AS12059
+menu = CA ILAP AS12059
+title = CA - Internet Light and Power Inc. (AS12059 216.223.135.14)
+host = 216.223.135.14
+
++++ USA_AS11342
+menu = CA Pathway AS11342
+title = CA - Pathway Communications (AS11342 206.123.38.66)
+host = 206.123.38.66
+
++++ USA_AS23184
+menu = CA Persona AS23184
+title = CA - PERSONA COMMUNICATIONS INC. (AS23184 24.222.0.18)
+host = 24.222.0.18
+
++++ USA_AS30176
+menu = CA Priority Colo AS30176
+title = CA - Priority Colo Inc (AS30176 204.11.48.2)
+host = 204.11.48.2
+
++++ USA_AS812
+menu = CA Rogers Communications AS812
+title = CA Rogers Communications (AS812 204.50.128.222)
+host = 204.50.128.222
+
++++ USA_AS852-2
+menu = CA TELUS (TORONTO) AS852
+title = CA TELUS (TORONTO) (AS852 154.11.63.85)
+host = 154.11.63.85
+
++++ USA_AS852
+menu = CA TELUS (VANCOUVER) AS852
+title = CA TELUS (VANCOUVER) (AS852 216.123.224.131)
+host = 216.123.224.131
+
++++ USA_AS5769
+menu = CA Videotron AS5769
+title = CA Videotron (AS5769 24.201.245.37)
+host = 24.201.245.37
+
++++ USA_AS7018
+menu = US AT&T AS7018
+title = US AT&T (AS7018 206.141.251.2)
+host = 206.141.251.2
+
++++ USA_AS20940
+menu = US Akamai Techno. AS20940
+title = US Akamai Techno. (AS20940 23.2.17.254)
+host = 23.2.17.254
+
++++ USA_AS16509-East-1
+menu = US Amazon US-East-1 AS16509
+title = US Amazon AWS US-East-1 North Virginia (AS16509 54.243.255.254)
+host = 54.243.255.254
+
++++ USA_AS16509-East-2
+menu = US Amazon US-East-2 AS16509
+title = US Amazon AWS US-East-2 Ohio (AS16509 13.58.0.253)
+host = 13.58.0.253
+
++++ USA_AS16509-West-1
+menu = US Amazon US-West-1 AS16509
+title = US Amazon AWS US-West-1 North California (AS16509 54.183.64.3)
+host = 54.183.64.3
+
++++ USA_AS16509-West-2
+menu = US Amazon US-West-2 AS16509
+title = US Amazon AWS US-West-2 Oregon (AS16509 52.24.63.252)
+host = 52.24.63.252
+
++++ USA_AS714
+menu = US Apple AS714
+title = US Apple (San Jose, CA) (AS714 17.254.0.50)
+host = 17.254.0.50
+
++++ USA_AS22773
+menu = US COX AS22773
+title = US COX (AS22773 68.1.1.123)
+host = 68.1.1.123
+
++++ USA_AS20115
+menu = US Charter AS20115
+title = US Charter (AS20115 24.196.64.53)
+host = 24.196.64.53
+
++++ USA_AS7850
+menu = US CityLink
+title = US - CityLink Telecommunications NM, LLC (AS7850 216.243.112.201)
+host = 216.243.112.201
+
++++ USA_AS13335
+menu = US CloudFlare AS13335
+title = US - CloudFlare Inc. (AS13335 198.41.215.162)
+host = 198.41.215.162
+
++++ USA_AS7922
+menu = US Comcast AS7922
+title = US Comcast (AS7922 69.241.45.20)
+host = 69.241.45.20
+
++++ USA_AS41690
+menu = US Dailymotion NYC AS41690
+title = US Dailymotion NYC (AS41690 198.54.201.1)
+host = 198.54.201.1
+
++++ USA_AS41690-2
+menu = US Dailymotion SV6 AS41690
+title = US Dailymotion SV6 (AS41690 198.54.200.197)
+host = 198.54.200.197
+
++++ USA_AS14061-USA-NYC1-1
+menu = US Digital Ocean NYC1-1 AS14061
+title = US Digital Ocean New York 1 (AS14061 67.205.188.39)
+host = 67.205.188.39
+
++++ USA_AS14061-USA-NYC2-1
+menu = US Digital Ocean NYC2-1 AS14061
+title = US Digital Ocean New York 2 (AS14061 162.243.9.77)
+host = 162.243.9.77
+
++++ USA_AS14061-USA-NYC3-1
+menu = US Digital Ocean NYC3-1 AS14061
+title = US Digital Ocean New York 3 (AS14061 138.197.20.252)
+host = 138.197.20.252
+
++++ USA_AS14061-USA-SFO1-1
+menu = US Digital Ocean SFO1-1 AS14061
+title = US Digital Ocean San Franscisco (AS14061 192.241.209.37)
+host = 192.241.209.37
+
++++ USA_AS14061-CA-TOR1-1
+menu = US Digital Ocean TOR1-1 AS14061
+title = US Digital Ocean Toronto 1 (AS14061 138.197.135.163)
+host = 138.197.135.163
+
++++ USA_AS32934
+menu = US FACEBOOK AS32934
+title = US FACEBOOK (AS32934 173.252.65.46)
+host = 173.252.65.46
+
++++ USA_AS15169
+menu = US Google Inc. AS15169
+title = US Google Inc. (AS15169 74.125.0.41)
+host = 74.125.0.41
+
++++ USA_AS15169-3
+menu = US Google Inc. AS15169
+title = US Google Inc. (AS15169 8.8.4.4)
+host = 8.8.4.4
+
++++ USA_AS15169-2
+menu = US Google Inc. AS15169
+title = US Google Inc. (AS15169 8.8.8.8)
+host = 8.8.8.8
+
++++ USA_AS6939
+menu = US Hurricane Electric AS6939
+title = US Hurricane Electric (AS6939 216.218.186.2)
+host = 216.218.186.2
+
++++ USA_AS7385
+menu = US Integra Telecom AS7385
+title = US Integra Telecom (AS7385 67.50.0.70)
+host = 67.50.0.70
+
++++ USA_AS22822-2
+menu = US Limelight Networks LAX AS22822
+title = US Limelight Networks LAX (AS22822 69.28.144.124)
+host = 69.28.144.124
+
++++ USA_AS22822
+menu = US Limelight Networks LGA AS22822
+title = US Limelight Networks LGA (AS22822 69.28.152.121)
+host = 69.28.152.121
+
++++ USA_AS2914-1
+menu = US NTT AS2914
+title = US - NTT America, Inc. (AS2914 198.64.6.26)
+host = 198.64.6.26
+
++++ USA_AS3856
+menu = US PACKET CLEARING HOUSE AS3856 / AS42
+title = US PACKET CLEARING HOUSE (AS3856 / AS42 204.61.210.218)
+host = 204.61.210.218
+
++++ USA_AS10026
+menu = US Pacnet Limited AS10026
+title = US Pacnet Limited (AS10026 42.99.168.38)
+host = 42.99.168.38
+
++++ USA_AS3491
+menu = US Pccw Global AS3491
+title = US Pccw Global (AS3491 203.105.16.30)
+host = 203.105.16.30
+
++++ USA_AS13768
+menu = US Peer 1 AS13768
+title = US Peer 1 (AS13768 107.6.60.31)
+host = 107.6.60.31
+
++++ USA_AS209
+menu = US QWEST AS209
+title = US QWEST (AS209 63.150.72.4)
+host = 63.150.72.4
+
++++ USA_AS36351
+menu = US SoftLayer Techno. AS36351
+title = US SoftLayer Techno. (AS36351 173.192.119.19)
+host = 173.192.119.19
+
++++ USA_AS1239
+menu = US Sprint AS1239
+title = US Sprint Link (AS1239 144.228.255.10)
+host = 144.228.255.10
+
++++ USA_AS4323
+menu = US TW Telecom AS4323
+title = US TW Telecom (AS4323 207.67.69.141)
+host = 207.67.69.141
+
++++ USA_AS7843
+menu = US TWC AS7843
+title = US TWC (AS7843 69.134.147.7)
+host = 69.134.147.7
+
++++ USA_AS701
+menu = US Verizon AS701
+title = US Verizon (AS701 71.252.0.72)
+host = 71.252.0.72
+
++++ USA_AS701-2
+menu = US Verizon AS701
+title = US Verizon 2 (AS701 108.52.197.131)
+host = 108.52.197.131
+
++++ USA_AS10310-2
+menu = US Yahoo (2) AS10310
+title = US Yahoo (2) (AS10310 216.115.103.166)
+host = 216.115.103.166
+
++++ USA_AS10310
+menu = US Yahoo AS10310
+title = US Yahoo (AS10310 209.131.62.248)
+host = 209.131.62.248
+
++++ USA_AS6461
+menu = US Zayo AS6461
+title = US Zayo Bandwidth (AS6461 207.126.96.162)
+host = 207.126.96.162
+
