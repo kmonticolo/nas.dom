@@ -256,11 +256,6 @@ menu = BE Belgacom Skynet AS5432
 title = BE Belgacom Skynet (AS5432 91.183.241.40)
 host = 91.183.241.40
 
-+++ EU_AS12392
-menu = BE Brutele AS12392
-title = BE Brutele (185.3.160.71)
-host = (185.3.160.71
-
 +++ EU_AS44038
 menu = CH Bluewin AS44038
 title = CH Bluewin (AS44038 195.186.196.180)
@@ -550,11 +545,6 @@ host = 89.127.199.146
 menu = IE Magnet AS34245
 title = IE Magnet (AS34245 85.91.6.60)
 host = 85.91.6.60
-
-+++ EU_AS12874
-menu = IT FASTWEB AS12874
-title = IT FASTWEB (AS12874 217.29.66.46)
-host = 217.29.66.46
 
 +++ EU_AS12874-1
 menu = IT FASTWEB AS12874-1
