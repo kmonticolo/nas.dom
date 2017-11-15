@@ -1104,4 +1104,627 @@ menu = PE Telefonica Peru AS6147
 title = PE Telefonica del Peru S.A.A (AS6147 200.37.224.10)
 host = 200.37.224.10
 
+++ APAC
+menu = APAC
+title = APAC
+
++++ APAC_AS16509-APAC-SE-2
+menu = AU Amazon APAC-SouthEast-2 AS16509
+title = AU Amazon APAC-SouthEast-2 Sydney (AS16509 54.66.191.252)
+host = 54.66.191.252
+
++++ APAC_AS55581
+menu = AU Binary Networks AS55581
+title = AU - Binary Networks (AS55581 27.116.37.122)
+host = 27.116.37.122
+
++++ APAC_AS13335-3
+menu = AU Cloudflare AS13335
+title = AU Cloudflare (AS13335 104.28.26.76)
+host = 104.28.26.76
+
++++ APAC_AS10113
+menu = AU EFTEL AS10113
+title = AU Eftel Limited. (AS10113 203.24.100.22)
+host = 203.24.100.22
+
++++ APAC_AS19551-3
+menu = AU Incapsula AS19551
+title = AU Incapsula (AS19551 103.28.250.169)
+host = 103.28.250.169
+
++++ APAC_AS38285
+menu = AU M2 Telecom AS38285
+title = AU - M2 Telecommunications Group Limited (AS38285 203.134.153.89)
+host = 203.134.153.89
+
++++ APAC_AS7474-1
+menu = AU Optus AS7474
+title = AU - SingTel Optus Pty Ltd (AS7474 203.13.128.125)
+host = 203.13.128.125
+
++++ APAC_AS7474
+menu = AU Optus AS7474
+title = AU - SingTel Optus Pty Ltd (AS7474 59.154.2.98)
+host = 59.154.2.98
+
++++ APAC_AS7474-2
+menu = AU Optus AS7474
+title = AU - SingTel Optus Pty Ltd (AS7474 211.29.132.139 - NTP)
+host = 211.29.132.139
+
++++ APAC_AS10026
+menu = AU Pacnet AS10026
+title = AU - Pacnet Global Limited (AS10026 203.192.163.124)
+host = 203.192.163.124
+
++++ APAC_AS7545
+menu = AU TPG Internet AS7545
+title = AU TPG Internet Pty Ltd. (AS7545 203.12.160.35)
+host = 203.12.160.35
+
++++ APAC_AS1221-3
+menu = AU Telstra AS1221
+title = AU Telstra Pty Limited. (AS1221 203.36.190.12)
+host = 203.36.190.12
+
++++ APAC_AS1221-2
+menu = AU Telstra AS1221
+title = AU Telstra Pty Limited. (AS1221 203.50.5.199)
+host = 203.50.5.199
+
++++ APAC_AS1221
+menu = AU Telstra AS1221
+title = AU Telstra Pty Limited. (AS1221 144.130.12.254)
+host = 144.130.12.254
+
++++ APAC_AS703
+menu = AU Verizon Australia AS703
+title = AU - Verizon Australia PTY Limited (AS703 210.80.128.49)
+host = 210.80.128.49
+
++++ APAC_AS4826-1
+menu = AU Vocus AS4826
+title = AU - Vocus Connect Int. Backbone (AS4826 175.45.91.235)
+host = 175.45.91.235
+
++++ APAC_AS4826
+menu = AU Vocus NZ AS4826
+title = AU - Vocus Connect Int. Backbone (AS4826 123.100.67.241)
+host = 123.100.67.241
+
++++ APAC_AS133612
+menu = AU Vodafone Australia AS133612
+title = AU Vodafone Australia (AS133612 101.119.56.250)
+host = 101.119.56.250
+
++++ APAC_AS9443
+menu = AU iPrimus Telecom AS9443
+title = AU iPrimus Telecom (AS9443 203.134.65.66)
+host = 203.134.65.66
+
++++ APAC_AS4739-1
+menu = AU iiNET AS4739
+title = AU iiNet Limited (AS4739 203.173.11.125)
+host = 203.173.11.125
+
++++ APAC_AS4739
+menu = AU iiNET AS4739
+title = AU iiNet Limited (AS4739 203.0.178.191)
+host = 203.0.178.191
+
++++ APAC_AS4802
+menu = AU iiNET AS4802
+title = AU iiNet Limited (AS4802 203.55.230.5)
+host = 203.55.230.5
+
++++ APAC_AS4802-1
+menu = AU iiNET AS4802
+title = AU iiNet Limited (AS4802 203.173.37.165)
+host = 203.173.37.165
+
++++ APAC_AS4739-3
+menu = AU iiNET Melbourne AS4739
+title = AU iiNet Limited Melbourne (AS4739 203.173.41.168)
+host = 203.173.41.168
+
++++ APAC_AS4739-2
+menu = AU iiNET Tasmania AS4739
+title = AU iiNet Limited Tasmania (AS4739 203.173.28.172)
+host = 203.173.28.172
+
++++ APAC_AS37963
+menu = CN AliSoft AS37963
+title = CN - Hangzhou Alibaba Advertising Co. Ltd (AS37963 59.110.0.31)
+host = 59.110.0.31
+
++++ APAC_AS4134
+menu = CN CHINANET-BACKBONE AS4134
+title = CN No.31,Jin-rong Street (AS4134 202.97.0.6)
+host = 202.97.0.6
+
++++ APAC_AS4809
+menu = CN China Telecom Global AS4809
+title = CN China Telecom Global (AS4809 202.55.11.100)
+host = 202.55.11.100
+
++++ APAC_AS4812
+menu = CN Chinanet SH AS4812
+title = CN China Telecom (Group) (AS4812 203.110.164.1)
+host = 203.110.164.1
+
++++ APAC_AS4645
+menu = CN HKNet Company AS4645
+title = CN HKNet Company Ltd (AS4645 202.67.240.222)
+host = 202.67.240.222
+
++++ APAC_AS9269
+menu = CN Hong Kong Broadband AS9269
+title = CN Hong Kong Broadband Network Ltd (AS9269 119.247.226.137)
+host = 119.247.226.137
+
++++ APAC_AS54994
+menu = CN Quantil AS54994
+title = CN Quantil (AS54994 168.235.196.1)
+host = 168.235.196.1
+
++++ APAC_AS4837
+menu = CN Unicom Backbone AS4837
+title = CN CNCGROUP China169 Unicom Backbone (AS4837 202.102.128.69)
+host = 202.102.128.69
+
++++ APAC_AS4808
+menu = CN Unicom Beijing AS4808
+title = CN China Unicom Beijing province (AS4837 219.158.101.158)
+host = 219.158.101.158
+
++++ APAC_AS4837-4
+menu = CN Unicom Hainan AS4837
+title = CN China Unicom Hainan province (AS4837 124.66.8.16)
+host = 124.66.8.16
+
++++ APAC_AS4837-1
+menu = CN Unicom Heilongjiang AS4837
+title = CN China Unicom Heilongjiang province (AS4837 221.208.150.28)
+host = 221.208.150.28
+
++++ APAC_AS4837-5
+menu = CN Unicom Liaoning AS4837
+title = CN China Unicom Liaoning province (AS4837 124.92.128.43)
+host = 124.92.128.43
+
++++ APAC_AS4837-3
+menu = CN Unicom Shandong AS4837
+title = CN China Unicom Shandong province (AS4837 123.232.8.129)
+host = 123.232.8.129
+
++++ APAC_AS17621
+menu = CN Unicom Shangai AS17621
+title = CN China Unicom Shanghai network (AS17621 103.250.192.133)
+host = 103.250.192.133
+
++++ APAC_AS4837-2
+menu = CN Unicom Zhejiang AS4837
+title = CN China Unicom Zhejiang province (AS4837 123.154.128.30)
+host = 123.154.128.30
+
++++ APAC_AS133752
+menu = HK LeaseWeb APAC AS133752
+title = HK - Leaseweb Asia Pacific pte. ltd. (AS133752 209.58.184.34)
+host = 209.58.184.34
+
++++ APAC_AS9381
+menu = HK WTT HK Limited AS9381
+title = HK - WTT HK Limited (AS9381 59.152.214.18)
+host = 59.152.214.18
+
++++ APAC_AS4761
+menu = ID Indosat AS4761
+title = ID INDOSAT Internet Network Provider (AS4761 114.6.59.17)
+host = 114.6.59.17
+
++++ APAC_AS10217
+menu = ID NTT Indonesia AS10217
+title = ID PT. NTT Indonesia (AS10217 202.171.27.9)
+host = 202.171.27.9
+
++++ APAC_AS7713
+menu = ID Telekomunikasi Indonesia AS7713
+title = ID Telekomunikasi Indonesia (AS7713 202.93.236.2)
+host = 202.93.236.2
+
++++ APAC_AS23693
+menu = ID Telekomunikasi Selular AS23693
+title = ID PT. Telekomunikasi Selular (AS23693 114.125.144.1)
+host = 114.125.144.1
+
++++ APAC_AS17974
+menu = ID Telin AS17974
+title = ID PT Telekomunikasi Indonesia (AS17974 110.139.0.1)
+host = 110.139.0.1
+
++++ APAC_AS24560
+menu = IN Airtel Broadband AS24560
+title = IN Bharti Airtel Ltd., Telemedia Services (AS24560 122.160.220.17)
+host = 122.160.220.17
+
++++ APAC_AS17465
+menu = IN Asianet AS17465
+title = IN Asianet Cable ISP in India (AS17465 202.88.238.65)
+host = 202.88.238.65
+
++++ APAC_AS9498
+menu = IN BHARTI Airtel AS9498
+title = IN BHARTI Airtel Ltd. (AS9498 125.18.8.109)
+host = 125.18.8.109
+
++++ APAC_AS9829
+menu = IN BSNL AS9829
+title = IN BSNL (AS9829 218.248.240.209)
+host = 218.248.240.209
+
++++ APAC_AS18209
+menu = IN Beam Telecom AS18209
+title = IN Beam Telecom Pvt Ltd (AS18209 202.53.8.40)
+host = 202.53.8.40
+
++++ APAC_AS45769
+menu = IN D-Vois AS45769
+title = IN D-Vois Broadband Pvt Ltd (AS45769 114.79.129.2)
+host = 114.79.129.2
+
++++ APAC_AS14061-APAC-BLR1-1
+menu = IN Digital Ocean BLR1-1 AS14061
+title = IN Digital Ocean Bangalore 1 (AS14061 139.59.44.249)
+host = 139.59.44.249
+
++++ APAC_AS55644
+menu = IN Idea Cellular AS55644
+title = IN Idea Cellular Limited (AS55644 223.196.100.100)
+host = 223.196.100.100
+
++++ APAC_AS17813
+menu = IN Mahanagar AS17813
+title = IN Mahanagar Telephone Nigam Ltd. (AS17813 203.94.227.70)
+host = 203.94.227.70
+
++++ APAC_AS17439
+menu = IN Netmagic AS17439
+title = IN Netmagic Datacenter Mumbai (AS17439 180.179.44.1)
+host = 180.179.44.1
+
++++ APAC_AS18101
+menu = IN Reliance Comm AS18101
+title = IN Reliance Communications Ltd. (AS18101 202.138.97.97)
+host = 202.138.97.97
+
++++ APAC_AS9583
+menu = IN Sify AS9583
+title = IN - Sify Technologies Limited (AS9583 202.144.63.12)
+host = 202.144.63.12
+
++++ APAC_AS9238
+menu = IN Tata AS9238
+title = IN TATA ISP (AS9238 203.196.202.225)
+host = 203.196.202.225
+
++++ APAC_AS18207
+menu = IN You Broadband AS18207
+title = IN YOU Broadband & Cable India Ltd. (AS18207 203.109.112.17)
+host = 203.109.112.17
+
++++ APAC_AS16509-APAC-NE-1
+menu = JP Amazon APAC-NorthEast-1 AS16509
+title = JP Amazon APAC-NorthEast-1 Tokyo (AS16509 54.64.0.2)
+host = 54.64.0.2
+
++++ APAC_AS2518
+menu = JP Biglobe AS2518
+title = JP - BIGLOBE Inc. NEC-MESH (AS2518 210.147.240.209)
+host = 210.147.240.209
+
++++ APAC_AS17511
+menu = JP K-Opticom AS17511
+title = JP K-Opticom Corporation (AS17511 203.140.80.17)
+host = 203.140.80.17
+
++++ APAC_AS2516
+menu = JP KDDI Corp. AS2516
+title = JP KDDI Corporation (AS2516 211.5.1.1)
+host = 211.5.1.1
+
++++ APAC_AS2914
+menu = JP NTT AS2914
+title = JP - NTT America, Inc. (AS2914 203.105.73.119)
+host = 203.105.73.119
+
++++ APAC_AS9605
+menu = JP NTT DOCOMO AS9605
+title = JP NTT DOCOMO INC. (AS9605 49.102.160.2)
+host = 49.102.160.2
+
++++ APAC_AS4713
+menu = JP OCN AS4713
+title = JP OCN (AS4713 222.150.171.90)
+host = 222.150.171.90
+
++++ APAC_AS17676
+menu = JP SoftBank AS17676
+title = JP SoftBank - Yahoo BB (AS17676 143.90.12.74)
+host = 143.90.12.74
+
++++ APAC_AS9619
+menu = JP Sony AS9619
+title = JP Sony Global Solutions Inc. (AS9619 211.125.138.150)
+host = 211.125.138.150
+
++++ APAC_AS9615
+menu = JP Toyoashi AS9615
+title = JP TOYOHASHI CABLE NETWORK INC. (AS9615 202.53.112.6)
+host = 202.53.112.6
+
++++ APAC_AS2519
+menu = JP Vectant AS2519
+title = JP - ARTERIA Networks Corporation / Vectant (AS2519 163.139.230.164)
+host = 163.139.230.164
+
++++ APAC_AS2519-1
+menu = JP Vectant AS2519
+title = JP - ARTERIA Networks Corporation / Vectant (AS2519 163.139.230.164)
+host = 163.139.230.164
+
++++ APAC_AS18077
+menu = JP Yamaguchi Cable AS18077
+title = JP Yamaguchi Cable Vision Co.,Ltd (AS18077 122.250.0.1)
+host = 122.250.0.1
+
++++ APAC_AS38623
+menu = KH Viettel Cambodia AS38623
+title = KH VIETTEL ISP/IXP IN CAMBODIA(AS38623 36.37.242.57)
+host = 36.37.242.57
+
++++ APAC_AS16509-APAC-NE-2
+menu = KR Amazon APAC-NorthEast-2 AS16509
+title = KR Amazon APAC-NorthEast-2 Seoul (AS16509 52.78.63.252)
+host = 52.78.63.252
+
++++ APAC_AS9318
+menu = KR Hanaro Telecom AS9318
+title = KR Hanaro Telecom Inc (AS9318 1.239.7.62)
+host = 1.239.7.62
+
++++ APAC_AS4766
+menu = KR Korea Telecom AS4766
+title = KR Korea Telecom (AS4766 211.216.50.170)
+host = 211.216.50.170
+
++++ APAC_AS4766-1
+menu = KR Korea Telecom AS4766
+title = KR Korea Telecom (AS4766 14.32.56.254)
+host = 14.32.56.254
+
++++ APAC_AS3786
+menu = KR LG DACOM AS3786
+title = KR LG DACOM Corp (AS3786 106.240.90.1)
+host = 106.240.90.1
+
++++ APAC_AS3786-1
+menu = KR LG DACOM AS3786
+title = KR LG DACOM Corp (AS3786 164.124.107.9)
+host = 164.124.107.9
+
++++ APAC_AS17858
+menu = KR PowerVis AS17858
+title = KR PowerVis (AS17858 112.144.0.1)
+host = 112.144.0.1
+
++++ APAC_AS9318-1
+menu = KR SK Broadband AS9318
+title = KR SK Broadband Co (AS9318 210.220.163.82)
+host = 210.220.163.82
+
++++ APAC_AS9934
+menu = MN Mongolia Telecom AS9934
+title = MN Mongolia Telecom (AS9934 202.179.20.1)
+host = 202.179.20.1
+
++++ APAC_AS38805
+menu = MN STXCitinet AS38805
+title = MN STXCitinet, Leading Internet & VOIP Service Provider, Ulaanbaatar, Mongolia (AS38805 124.158.64.1)
+host = 124.158.64.1
+
++++ APAC_AS38182
+menu = MY Extreme Broadband AS38182
+title = MY Extreme Broadband - Total Broadband Experience (AS38182 113.23.193.154)
+host = 113.23.193.154
+
++++ APAC_AS24218
+menu = MY Global Transit AS24218
+title = MY Global Transit Communications - Malaysia (AS24218 103.3.74.1)
+host = 103.3.74.1
+
++++ APAC_AS4768
+menu = MY Malaysian Telecom AS4768
+title = MY Malaysian Telecom (AS4768 60.52.75.126)
+host = 60.52.75.126
+
++++ APAC_AS24068
+menu = MY Redtone AS24068
+title = MY Redtone Broadband Service Provider (AS24068 202.171.56.5)
+host = 202.171.56.5
+
++++ APAC_AS23655
+menu = NZ SNAP Internet Limited AS23655
+title = NZ SNAP Internet Limited (AS23655 202.37.101.1)
+host = 202.37.101.1
+
++++ APAC_AS4771
+menu = NZ Spark AS4771
+title = NZ Spark New Zealand Trading Ltd. (AS4771 122.59.64.1)
+host = 122.59.64.1
+
++++ APAC_AS9500
+menu = NZ Vodafone AS9500
+title = NZ Vodafone NZ Ltd. (AS9500 203.109.135.49)
+host = 203.109.135.49
+
++++ APAC_AS4775
+menu = PH Globe Telecoms AS4775
+title = PH Globe Telecoms (AS4775 120.28.15.1)
+host = 120.28.15.1
+
++++ APAC_AS9299
+menu = PH PLDT AS9299
+title = PH PLDT (AS9299 210.14.4.37)
+host = 210.14.4.37
+
++++ APAC_AS16509-APAC-SE-1
+menu = SG Amazon APAC-SouthEast-1 AS16509
+title = SG Amazon APAC-SouthEast-1 Singapore (AS16509 52.74.0.2)
+host = 52.74.0.2
+
++++ APAC_AS14061-APAC-SGP1-1
+menu = SG Digital Ocean SGP1-1 AS14061
+title = SG Digital Ocean Singapore 1 (AS14061 128.199.210.182)
+host = 128.199.210.182
+
++++ APAC_AS17547
+menu = SG M1 Net AS17547
+title = SG M1 Net Ltd (AS17547 210.193.2.36)
+host = 210.193.2.36
+
++++ APAC_AS38001
+menu = SG NewMedia Express AS38001
+title = SG NewMedia Express Pte Ltd (AS38001 202.150.218.220)
+host = 202.150.218.220
+
++++ APAC_AS4628
+menu = SG PacificInternet AS4628
+title = SG Pacific Internet Pte Ltd (AS4628 203.120.90.91)
+host = 203.120.90.91
+
++++ APAC_AS64049
+menu = SG Reliance Jio AS64049
+title = SG Reliance Jio Infocomm Pte Ltd (AS64049 49.45.4.98)
+host = 49.45.4.98
+
++++ APAC_AS24482
+menu = SG SG.GS AS24482
+title = SG SG.GS (AS24482 103.14.246.1)
+host = 103.14.246.1
+
++++ APAC_AS3758
+menu = SG SingNet AS3758
+title = SG Singapore Telecommunications Ltd (AS3758 42.61.94.61)
+host = 42.61.94.61
+
++++ APAC_AS9255
+menu = SG Singapore Telecom AS9255
+title = SG Singapore Telecom (AS9255 210.24.122.1)
+host = 210.24.122.1
+
++++ APAC_AS9911
+menu = SG Singapore Telecom AS9911
+title = SG Singapore Telecom (AS9911 203.208.144.2)
+host = 203.208.144.2
+
++++ APAC_AS7473
+menu = SG Singtel AS7473
+title = SG Singapore Telecommunications Ltd (AS7473 203.126.100.199)
+host = 203.126.100.199
+
++++ APAC_AS9506
+menu = SG Singtel Fibre AS9506
+title = SG SingTel Fibre Broadband Singapore (AS9506 42.61.0.21)
+host = 42.61.0.21
+
++++ APAC_AS10091
+menu = SG StarHub AS10091
+title = SG StarHub Cable Vision Ltd (AS10091 218.186.2.166)
+host = 218.186.2.166
+
++++ APAC_AS56308
+menu = SG TelIn AS56308
+title = SG Telekomunikasi Indonesia Int. (AS56308 180.240.138.99)
+host = 180.240.138.99
+
++++ APAC_AS18106
+menu = SG Viewqwest AS18106
+title = SG Viewqwest Pte Ltd (AS18106 202.73.37.2)
+host = 202.73.37.2
+
++++ APAC_AS131090
+menu = TH CAT Telecom AS131090
+title = TH CAT TELECOM Public Company Ltd,CAT (AS131090 110.77.237.1)
+host = 110.77.237.1
+
++++ APAC_AS4618
+menu = TH Internet Thailand Company AS4618
+title = TH Internet Thailand Company Ltd. (AS3462 203.150.124.34)
+host = 203.150.124.34
+
++++ APAC_AS45629
+menu = TH Jastel Network AS45629
+title = TH - JASTEL-NETWORK-TH-AP (AS45629 110.164.252.138)
+host = 110.164.252.138
+
++++ APAC_AS4765
+menu = TH Pacific Internet AS4765
+title = TH Pacific Internet Thailand Ltd (AS4765 203.121.130.39)
+host = 203.121.130.39
+
++++ APAC_AS9737
+menu = TH TOT AS9737
+title = TH TOT Public Company Limited (AS9737 118.174.8.50)
+host = 118.174.8.50
+
++++ APAC_AS17552
+menu = TH True Internet AS17552
+title = TH True Internet Co.,Ltd. (AS17552 203.144.225.242)
+host = 203.144.225.242
+
++++ APAC_AS9674
+menu = TW Far EastTone AS9674
+title = TW Far EastTone Telecommunication Co., Ltd. (AS9674 61.20.46.195)
+host = 61.20.46.195
+
++++ APAC_AS3462
+menu = TW Hinet AS3462
+title = TW Hinet Chunghwa Telecom (AS3462 168.95.192.15)
+host = 168.95.192.15
+
++++ APAC_AS9924
+menu = TW Taiwan Fixed Net. AS9924
+title = TW Taiwan Fixed Network, Telco and Network Service Provider. (AS9924 118.232.0.1)
+host = 118.232.0.1
+
++++ APAC_AS38726
+menu = VN DigiComm AS38726
+title = VN Digital Communications Company (AS38726 119.18.184.1)
+host = 119.18.184.1
+
++++ APAC_AS18403
+menu = VN FPT Telecom AS18403
+title = VN - FPT Telecom (AS18403 210.245.0.131)
+host = 210.245.0.131
+
++++ APAC_AS24173
+menu = VN Netnam AS24173
+title = VN Netnam Company (AS24173 101.96.108.3)
+host = 101.96.108.3
+
++++ APAC_AS56143
+menu = VN VDATA AS56143
+title = VN Cong ty TNHH TMDV Cong nghe Tam Nhin Moi (AS56143 103.3.244.239)
+host = 103.3.244.239
+
++++ APAC_AS45899
+menu = VN VietNam Data AS45899
+title = VN (AS45899 123.31.27.130)
+host = 123.31.27.130
+
++++ APAC_AS7552
+menu = VN Viettel AS7552
+title = VN Viettel Corporation (AS7552 203.113.131.1)
+host = 203.113.131.1
 
