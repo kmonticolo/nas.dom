@@ -1040,3 +1040,68 @@ menu = US Zayo AS6461
 title = US Zayo Bandwidth (AS6461 207.126.96.162)
 host = 207.126.96.162
 
+++ SA
+menu = SA
+title = SA
+
++++ SA_AS7049
+menu = AR Silica AS7049
+title = AR Silica Networks Argentina S.A. (AS7049 200.59.32.66)
+host = 200.59.32.66
+
++++ SA_AS22927
+menu = AR Telefonica Argentina AS22927
+title = AR Telefonica de Argentina S.A (AS22927 209.13.172.3)
+host = 209.13.172.3
+
++++ SA_AS28573
+menu = BR Claro AS28573
+title = BR Claro (AS28573 201.6.4.17)
+host = 201.6.4.17
+
++++ SA_AS4230
+menu = BR Embratel Claro AS4230
+title = BR Embratel-Claro (AS4230 189.88.0.1)
+host = 189.88.0.1
+
++++ SA_AS7738
+menu = BR Oi AS7738
+title = BR Oi Telemar Norte Leste (AS7738 200.202.193.106)
+host = 200.202.193.106
+
++++ SA_AS18881
+menu = BR Telefonica Brasil AS18881
+title = BR Telefonica Brasil S.A (AS18881 179.178.80.1)
+host = 179.178.80.1
+
++++ SA_AS10429
+menu = BR Telefonica Data AS10429
+title = BR Telefonica Data S.A (AS10429 177.25.0.41)
+host = 177.25.0.41
+
++++ SA_AS22047
+menu = CL VTR Banda Ancha AS22047
+title = CL VTR Banda Ancha (AS22047 190.164.10.42)
+host = 190.164.10.42
+
++++ SA_AS8151
+menu = MX Uninet AS8151
+title = MX Uninet (AS8151 200.33.150.193)
+host = 200.33.150.193
+
++++ SA_AS28032
+menu = PE Internexa AS28032
+title = PE INTERNEXA PERU S.A (AS28032 190.108.82.5)
+host = 190.108.82.5
+
++++ SA_AS262182
+menu = PE Media Networks AS262182
+title = PE Media Networks Latin America SAC (AS262182 190.52.127.233)
+host = 190.52.127.233
+
++++ SA_AS6147
+menu = PE Telefonica Peru AS6147
+title = PE Telefonica del Peru S.A.A (AS6147 200.37.224.10)
+host = 200.37.224.10
+
+
