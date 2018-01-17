@@ -129,6 +129,12 @@ remark = Welcome to the SmokePing website of xxx Company. \
 menu= Targets
 #parents = owner:/Test/James location:/
 
+++ backupvps
+
+menu = backupvps
+title = backup vps
+host = 185.215.224.83
+
 ++ cisco
 
 menu = cisco
