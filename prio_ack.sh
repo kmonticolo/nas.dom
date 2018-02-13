@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #http://www.funtoo.org/Traffic_Control
 # priorities packets for wrt54
 
